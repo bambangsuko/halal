@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laravelium/sitemap": "^8.0"
+    }
+}
